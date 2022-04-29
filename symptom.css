@@ -1,0 +1,48 @@
+body{
+	background-image: url(Triangle-texture-background-abstract-picture_2560x1440.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+
+.d1{
+	font-size: 30px;
+	color: seagreen;
+}
+
+
+
+dd{
+	font-size: 20px;
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: goldenrod;
+}
+
+h2{
+	font-size: 35px;
+	font-family: lucida handwriting;
+	color: brown; 
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	
+}
+
+img{
+	border: 1px solid black;
+	border-radius: 8px;
+	transform: rotate(330deg);
+}
+
+
+
+table{
+	float: right;
+}

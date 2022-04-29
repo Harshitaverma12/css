@@ -1,0 +1,96 @@
+
+td{
+    align: left;
+ }
+
+table{
+    float: right;
+}
+
+.img{
+    float: right;
+    height: 500px;
+    width: 600px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.container{
+    margin-top: 30px;
+    border: 2px solid black;
+    margin-left: 20px;
+    position: left;
+    z-index: 1;
+    width: 550px;
+    height: 500px;
+    margin-center: 0;
+    padding: 15px;
+    border-radius: 1px;
+    background-image: url(photo-1508796079212-a4b83cbf734d.jpg);
+        
+}
+ 
+
+.formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+        td{
+            text-transform: uppercase;
+        }
+
+        button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 10px;
+  background-color: #f44336;
+  margin-right: 20px;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  margin-top: 20px;
+  width: 100px;
+}
+
+.formerror {
+            color: red;
+}
+
+/*.but {
+       border-radius: 9px;
+      width: 100px;
+      height: 50px;
+      font-size: 25px;
+      margin: 22px 20px;
+}*/
+
+.password-check::after{
+  content: "";
+}
+
+.password-check{
+  display: flex;
+  color: grey;
+  font-weight: bold;
+}
+
